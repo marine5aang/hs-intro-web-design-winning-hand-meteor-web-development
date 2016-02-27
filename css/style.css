@@ -71,11 +71,61 @@ h3 {
     border-color: black;
     border-style: solid;
     border-width: 1px;
-    left: 5px;
+    left: 10px;
     top: 150px;
     z-index: 1;
     background-color: white;
 }
 
+#king {
+height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 215px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
 
+#queen {
+  height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 420px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
+
+#jack {
+  height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 625px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
+
+#ten {
+  height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 830px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
 
